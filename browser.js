@@ -1,4 +1,5 @@
 const playwright = require('playwright');
+const {startMeet} = require('./meet')
 
 async function startBrowser() {
 

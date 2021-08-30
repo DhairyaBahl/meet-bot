@@ -1,1 +1,0 @@
-const { firefox } = require('playwright');
